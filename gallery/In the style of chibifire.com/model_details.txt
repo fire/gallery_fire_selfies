@@ -1,0 +1,2 @@
+CharacterDesign-FluxV2
+Flux1-schnell-fp8
